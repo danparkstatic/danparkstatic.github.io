@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6da95d1d-a94e-49d3-a6e6-a2eb3d275385" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="danparkstatic.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.504436">
-              <caret line="85" column="154" selection-start-line="85" selection-start-column="154" selection-end-line="85" selection-end-column="154" />
+            <state vertical-scroll-proportion="0.37007874">
+              <caret line="91" column="72" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -204,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.504436">
-          <caret line="85" column="154" selection-start-line="85" selection-start-column="154" selection-end-line="85" selection-end-column="154" />
+        <state vertical-scroll-proportion="0.37007874">
+          <caret line="91" column="72" selection-start-line="91" selection-start-column="72" selection-end-line="91" selection-end-column="72" />
           <folding />
         </state>
       </provider>
